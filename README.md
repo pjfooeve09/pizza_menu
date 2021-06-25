@@ -9,7 +9,7 @@ Installation
 2. Add this line to your application's Gemfile:
 
 ```ruby
-gem 'pizza_time'
+    gem 'pizza_time'
 ```
 
 3. Load the repository in your development software.
@@ -24,5 +24,5 @@ Or install it yourself as:
 
 5. In terminal:
 
-run `bin/console`
+    run `bin/console`
 
